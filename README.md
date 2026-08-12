@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://python.org)
 [![PyMuPDF](https://img.shields.io/badge/PyMuPDF-1.24.7-green.svg)](https://pymupdf.readthedocs.io/)
 [![LayoutParser](https://img.shields.io/badge/LayoutParser-0.3.4-orange.svg)](https://layout-parser.github.io/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-lightgrey.svg)](LICENSE)
 
 An enterprise-grade document AI platform for processing, analyzing, and extracting insights from large-scale document collections. Specialized in financial documents with advanced OCR, layout analysis, and automated annotation capabilities.
 
